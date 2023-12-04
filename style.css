@@ -1,0 +1,52 @@
+.titulo{
+    font-family: 'Peralta', serif;
+}
+.colornav{
+    background-color: white;
+}
+.colornav img{
+    width: 170px;
+}
+
+.colornav a{
+    color:black;
+    font-weight: bolder;
+    font-size: large;
+}
+
+section{
+    margin-top: 20%;
+}
+
+#fundo{
+    background: rgb(49,212,214);
+background: linear-gradient(0deg, rgba(49,212,214,1) 0%, rgba(255,255,255,1) 100%);
+text-align: center;
+}
+
+#conter-logo img{
+    float: left;
+    width: 200px;
+}
+
+#conter-redes a{
+    text-decoration: none;
+    color: black;
+    line-height: 3.5;
+}
+
+#conter-redes i{
+   margin-right: 10px;
+}
+
+hr{
+    width: 200px;
+}
+
+p, ul, li{
+    text-align: justify;
+}
+
+footer{
+    text-align: justify;
+}
